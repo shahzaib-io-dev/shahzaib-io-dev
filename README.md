@@ -148,7 +148,7 @@ Here is a curated list of my top-tier development projects, showcasing frontend 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://github.com/shahzaib-io-dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaib@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaib@gmail.com)
 
 <br>
 
