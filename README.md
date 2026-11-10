@@ -20,10 +20,10 @@
 <code><span style="color: #79C0FF;">shahzaib@developer</span>:<span style="color: #D2A8FF;">~</span>$ cat about-me.json
 {
   <span style="color: #7EE787;">"name"</span>: <span style="color: #A5D6FF;">"Shahzaib"</span>,
-  <span style="color: #7EE787;">"role"</span>: <span style="color: #A5D6FF;">"Web Developer & DIT Student"</span>,
+  <span style="color: #7EE787;">"role"</span>: <span style="color: #A5D6FF;">"Web Developer & Student"</span>,
   <span style="color: #7EE787;">"location"</span>: <span style="color: #A5D6FF;">"Pakistan 🇵🇰"</span>,
   <span style="color: #7EE787;">"passions"</span>: [<span style="color: #A5D6FF;">"Web Development"</span>, <span style="color: #A5D6FF;">"AI Integration"</span>, <span style="color: #A5D6FF;">"Open Source"</span>],
-  <span style="color: #7EE787;">"goal"</span>: <span style="color: #A5D6FF;">"Study CS in Europe & Build Impactful Products"</span>
+  <span style="color: #7EE787;">"goal"</span>: <span style="color: #A5D6FF;">"Study & Build Impactful Products"</span>
 }</code>
       </pre>
     </td>
@@ -67,7 +67,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎬 <a href="https://github.com/shahzaib-io-dev/shahzaib-cinevault">Shahzaib CineVault</a></h3>
-      <p>Sleek movie & media discovery web platform with dynamic cards and responsive layouts.</p>
+      <p>Sleek movie & media discovery web platform with a simple creativity and has dynamic cards and responsive layouts.</p>
       <p><b>Tech Stack:</b> <code>Web Dev</code> • <code>API Integration</code> • <code>CSS3</code></p>
     </td>
   </tr>
